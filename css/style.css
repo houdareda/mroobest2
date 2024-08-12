@@ -687,7 +687,7 @@ body {
 
 /* Thanks Page */
 body.thanks_page_page{
-  background: url(../img/bg_thanks.jpg);
+  background: url(../img/thanks_bg.jpg);
   background-size: cover;
   background-position: center;
   min-height: 100vh;

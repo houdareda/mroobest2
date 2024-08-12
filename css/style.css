@@ -65,6 +65,7 @@ body {
     font-weight: bolder;
     padding:8px;
     line-height: 1.2;
+    box-shadow: 5px 5px 8px #00000065;
 }
 
 
@@ -414,7 +415,7 @@ body {
 
 
 .last_sec .sm-p {
-  font-size: 2.4vw;
+  font-size: 2.2vw;
   text-align: center;
   width: 95%;
   margin: auto;
@@ -427,7 +428,7 @@ body {
 
 
 .last_sec .div_form form {
-  background: linear-gradient(-20deg , #4A0E22,#8F1947);
+  background: linear-gradient(-20deg , #3b0a1a,#8F1947);
   box-shadow: 5px 5px 8px #00000027;
   text-align: center;
   width: 95%;
